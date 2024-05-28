@@ -1,4 +1,3 @@
-// repositories/EmployeesRepository.js
 import fs from "fs";
 import path from "path";
 import { Employee } from "../Employee";
